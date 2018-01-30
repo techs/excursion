@@ -9,3 +9,25 @@ header {
 	font-size: 16px;
 	color: aquamarine;
 }
+
+.about {
+	font-family: Verdana;
+	font-size: 21px;
+	color: gray;
+}
+
+#copy {
+	text-align: right;
+	color: gray;
+}
+
+body {
+	background: black;
+	text-align: center;
+}
+
+h2 {
+	font-size: 42px;
+	font-family: Verdana;
+	font-weight: 300;
+}
