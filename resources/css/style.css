@@ -1,5 +1,4 @@
 header {
-	font-family: Verdana;
 	font-size: 50px;
 	color: white;
 	text-align: center;
@@ -12,7 +11,6 @@ header {
 }
 
 .about {
-	font-family: Verdana;
 	font-size: 21px;
 	color: gray;
 }
@@ -29,11 +27,11 @@ img {
 body {
 	background: black;
 	text-align: center;
+	font-family: Verdana;
 }
 
 h2 {
 	font-size: 42px;
-	font-family: Verdana;
 	font-weight: 300;
 	color: white;
 }
